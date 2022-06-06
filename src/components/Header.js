@@ -10,7 +10,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 }
 
 Header.defaultProps = {
-    title: 'Hello World!',
+    title: 'Task Tracker',
 }
 
 // const headingStyle = {
